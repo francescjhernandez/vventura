@@ -213,7 +213,7 @@
         <button class="lang-btn active" onclick="changeLang('ca', event)">valencià/català</button>
         <button class="lang-btn" onclick="changeLang('es', event)">castellano</button>
         <button class="lang-btn" onclick="changeLang('en', event)">english</button>
-        <button class="lang-btn" onclick="changeLang('fr', event)">français</button>
+        <button class="lang-btn" onclick="changeLang('fr', event)">francés</button>
         <button class="lang-btn" onclick="changeLang('pt', event)">português</button>
         <button class="lang-btn" onclick="changeLang('it', event)">italiano</button>
         <button class="lang-btn" onclick="changeLang('ro', event)">română</button>
@@ -248,7 +248,7 @@
     </footer>
 
 <script>
-    const WORKER_URL = "https://vventura-worker.TEU_SUBDOMINI.workers.dev"; // Reemplaça per la URL del teu Worker
+    const WORKER_URL = "https://vventura.francesc-j-hernandez.workers.dev";
 
     let currentLang = 'ca';
     let estatProcessant = false;
@@ -543,7 +543,7 @@
                 body: JSON.stringify({ pregunta: missatge })
             });
             const data = await response.json();
-            const respostaBot = data.resposta || data.reply || "No response received.";
+            const respostaBot = data.resposta || data.reply || "No s'ha obtingut cap resposta del sistema.";
             
             clearInterval(intervalRotacio);
             document.getElementById(loadingId).remove();
