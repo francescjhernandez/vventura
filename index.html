@@ -13,9 +13,7 @@
             --text-color: #212529;
             --border-color: #e9ecef;
         }
-
         * { box-sizing: border-box; margin: 0; padding: 0; }
-
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             background-color: var(--bg-color);
@@ -24,7 +22,6 @@
             flex-direction: column;
             min-height: 100vh;
         }
-
         .lang-bar {
             background-color: #ffffff;
             border-bottom: 1px solid var(--border-color);
@@ -34,7 +31,6 @@
             flex-wrap: wrap;
             gap: 8px;
         }
-
         .lang-btn {
             background-color: transparent;
             border: 1px solid var(--border-color);
@@ -46,13 +42,11 @@
             color: var(--text-color);
             transition: all 0.2s ease;
         }
-
         .lang-btn.active {
             background-color: var(--primary-color);
             color: white;
             border-color: var(--primary-color);
         }
-
         .container {
             max-width: 800px;
             width: 90%;
@@ -64,28 +58,24 @@
             padding: 25px;
             text-align: center;
         }
-
         .header-logo {
             display: block;
             margin: 0 auto 15px auto;
             max-height: 120px;
             object-fit: contain;
         }
-
         .header-title {
             color: var(--primary-color);
             font-size: 22px;
             font-weight: bold;
             margin-bottom: 12px;
         }
-
         .header-desc {
             color: #555;
             font-size: 14px;
             margin-bottom: 25px;
             line-height: 1.5;
         }
-
         #chat-container {
             display: flex;
             flex-direction: column;
@@ -95,7 +85,6 @@
             overflow: hidden;
             text-align: left;
         }
-
         #chat-messages {
             flex: 1;
             padding: 15px;
@@ -105,7 +94,6 @@
             flex-direction: column;
             gap: 12px;
         }
-
         .message {
             padding: 10px 14px;
             border-radius: 8px;
@@ -113,20 +101,17 @@
             line-height: 1.4;
             font-size: 14px;
         }
-
         .message.user {
             background: var(--primary-color);
             color: #fff;
             align-self: flex-end;
         }
-
         .message.bot {
             background: #fff;
             border: 1px solid var(--border-color);
             align-self: flex-start;
             color: var(--text-color);
         }
-
         .message.loading {
             font-style: italic;
             color: #444;
@@ -135,7 +120,6 @@
             align-self: flex-start;
             transition: all 0.3s ease;
         }
-
         .chat-input-area {
             display: flex;
             padding: 10px;
@@ -144,7 +128,6 @@
             gap: 8px;
             align-items: center;
         }
-
         .chat-input-area input {
             flex: 1;
             padding: 10px 12px;
@@ -153,17 +136,14 @@
             outline: none;
             font-size: 14px;
         }
-
         .chat-input-area input:focus {
             border-color: var(--primary-color);
             box-shadow: 0 0 0 2px rgba(196, 30, 58, 0.15);
         }
-
         .chat-input-area input:disabled {
             background-color: #e9ecef;
             cursor: not-allowed;
         }
-
         .btn-action {
             background: var(--primary-color);
             color: white;
@@ -178,27 +158,22 @@
             transition: background 0.2s;
             font-size: 14px;
         }
-
         .btn-action:hover:not(:disabled) {
             background: var(--primary-hover);
         }
-
         .btn-action:disabled {
             background: #ccc;
             cursor: not-allowed;
         }
-
         .btn-mic.recording {
             background: #d9534f;
             animation: pulse 1.5s infinite;
         }
-
         @keyframes pulse {
             0% { opacity: 1; }
             50% { opacity: 0.5; }
             100% { opacity: 1; }
         }
-
         footer {
             background-color: #ffffff;
             border-top: 1px solid var(--border-color);
@@ -214,7 +189,7 @@
 <body>
 
     <div class="lang-bar">
-        <button class="lang-btn active" onclick="changeLang('ca', event)">valencià/català</button>
+        <button class="lang-btn" onclick="changeLang('ca', event)">valencià/català</button>
         <button class="lang-btn" onclick="changeLang('es', event)">castellano</button>
         <button class="lang-btn" onclick="changeLang('en', event)">english</button>
         <button class="lang-btn" onclick="changeLang('fr', event)">francés</button>
@@ -431,6 +406,26 @@
         }
     };
 
+    // ─── DETECTAR LLENGUA DE LA URL AL CARREGAR ─────────────────────────
+    function detectarLangURL() {
+        const params = new URLSearchParams(window.location.search);
+        const lang = params.get('lang');
+        if (lang && translations[lang]) {
+            changeLang(lang, null);
+            // Marcar el botó actiu manualment
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.textContent.includes(lang) || btn.getAttribute('onclick').includes(`'${lang}'`)) {
+                    btn.classList.add('active');
+                }
+            });
+        } else {
+            // Per defecte valencià
+            changeLang('ca', null);
+            document.querySelectorAll('.lang-btn')[0].classList.add('active');
+        }
+    }
+
     function changeLang(lang, event) {
         currentLang = lang;
         const data = translations[lang];
@@ -540,10 +535,11 @@
         }, 2500);
 
         try {
+            // ─── ENVIAR TAMBÉ LA LLENGUA AL WORKER ──────────────────────
             const response = await fetch(WORKER_URL, { 
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ pregunta: missatge })
+                body: JSON.stringify({ pregunta: missatge, lang: currentLang })
             });
             const data = await response.json();
             const respostaBot = data.resposta || data.reply || "No s'ha obtingut cap resposta del sistema.";
@@ -561,6 +557,9 @@
         chatMessages.scrollTop = chatMessages.scrollHeight;
         document.getElementById('userInput').focus();
     }
+
+    // ─── INICIALITZAR AL CARREGAR LA PÀGINA ─────────────────────────────
+    window.onload = detectarLangURL;
 </script>
 </body>
 </html>
