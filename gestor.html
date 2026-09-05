@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ca-valencia">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor - CFPA Vicent Ventura</title>
+    <style>
+        :root { --primary: #c41e3a; --primary-hover: #a01729; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f8f9fa; color: #212529; line-height: 1.6;
+            padding: 20px; max-width: 900px; margin: auto;
+        }
+        input, textarea {
+            width: 100%; margin-bottom: 12px; padding: 12px;
+            border: 1px solid #ccc; border-radius: 6px; font-size: 14px;
+        }
+        textarea { height: 200px; font-family: monospace; }
+        button {
+            background: var(--primary); color: white; padding: 12px 24px;
+            border: none; border-radius: 6px; cursor: pointer;
+            font-weight: bold; font-size: 15px; transition: background 0.2s;
+        }
+        button:hover { background: var(--primary-hover); }
+        .card {
+            background: #fff; padding: 30px; border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-bottom: 20px;
+        }
+        h2 { color: var(--primary); margin-bottom: 12px; }
+        h3 { color: #333; margin-bottom: 10px; }
+        .hint { color: #666; font-size: 13px; margin-bottom: 15px; }
+        .success { color: #28a745; font-weight: bold; }
+        .error { color: var(--primary); font-weight: bold; }
+        #preview {
+            background: #f8f9fa; padding: 15px; border-radius: 6px;
+            font-family: monospace; font-size: 13px; white-space: pre-wrap;
+            max-height: 400px; overflow-y: auto; border: 1px solid #e9ecef;
+        }
+        .log-item {
+            background: #fff; padding: 14px; margin-bottom: 10px;
+            border-left: 4px solid var(--primary); border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+        }
+    </style>
+<base target="_blank">
+</head>
+<body>
+
+    <div id="login" class="card">
+        <h3>🔐 Accés al Gestor del CFPA Vicent Ventura</h3>
+        <p class="hint">Introdueix la contrasenya per a accedir al gestor de context.</p>
+        <input type="password" id="pass" placeholder="Contrasenya">
+        <button onclick="checkPass()">Entrar</button>
+    </div>
+
+    <div id="admin" style="display:none;">
+        <div class="card">
+            <h2>📝 Afegir nova actualització al context</h2>
+            <p class="hint">
+                El text que escrigues ací s'afegirà al fitxer <code>context_actual.txt</code> del repositori de GitHub.
+                L'agent d'IA llegirà aquest fitxer amb <strong>preferència</strong> sobre el context històric.
+            </p>
+            <input type="text" id="resum" placeholder="Títol o resum de l'actualització (ex: Canvi d'horari d'atenció)">
+            <textarea id="info" placeholder="Informació detallada..."></textarea>
+            <button onclick="saveData()">💾 Guardar a GitHub</button>
+            <div id="msg" style="margin-top:12px;"></div>
+        </div>
+
+        <div class="card">
+            <h2>📋 Vista prèvia del context_actual.txt</h2>
+            <p class="hint">Contingut actual recarregat des de GitHub.</p>
+            <div id="preview">Carregant...</div>
+        </div>
+    </div>
+
+<script>
+    const WORKER_URL = "https://vventura.francesc-j-hernandez.workers.dev/admin";
+    const RAW_URL = "https://raw.githubusercontent.com/francescjhernandez/vventura/main/context_actual.txt";
+
+    function checkPass() {
+        const pass = document.getElementById('pass').value;
+        if (!pass) { alert("Introdueix una contrasenya"); return; }
+        document.getElementById('login').style.display = 'none';
+        document.getElementById('admin').style.display = 'block';
+        loadPreview();
+    }
+
+    async function saveData() {
+        const pass = document.getElementById('pass').value;
+        const resum = document.getElementById('resum').value.trim();
+        const info = document.getElementById('info').value.trim();
+        const msg = document.getElementById('msg');
+
+        if (!resum || !info) {
+            msg.innerHTML = '<span class="error">❌ Ompli tots els camps.</span>';
+            return;
+        }
+
+        const contingut = `## ${resum}\n\n${info}`;
+        msg.innerHTML = '⏳ Enviant a GitHub...';
+
+        try {
+            const response = await fetch(WORKER_URL, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ password: pass, contingut: contingut })
+            });
+            const data = await response.json();
+
+            if (response.ok && data.ok) {
+                msg.innerHTML = '<span class="success">✅ Guardat correctament a GitHub!</span>';
+                document.getElementById('resum').value = '';
+                document.getElementById('info').value = '';
+                loadPreview();
+            } else {
+                msg.innerHTML = '<span class="error">❌ Error: ' + (data.error || "Desconegut") + '</span>';
+                if (response.status === 401) {
+                    msg.innerHTML += '<br><small>La contrasenya és incorrecta.</small>';
+                }
+            }
+        } catch (err) {
+            msg.innerHTML = '<span class="error">❌ Error de connexió: ' + err.message + '</span>';
+        }
+    }
+
+    async function loadPreview() {
+        try {
+            const res = await fetch(RAW_URL + '?t=' + Date.now());
+            const text = await res.text();
+            document.getElementById('preview').textContent = text || "(El fitxer està buit o no existeix encara)";
+        } catch (e) {
+            document.getElementById('preview').textContent = "No s'ha pogut carregar la vista prèvia.";
+        }
+    }
+</script>
+</body>
+</html>
