@@ -1,1 +1,578 @@
+# Centre de Formació de Persones Adultes "Vicent Ventura" (València)
+
+## Document de referència ampliat, per a ús d'un agent d'IA
+
+> **Advertiment metodològic previ.** Aquest document ha estat elaborat cercant i contrastant fonts primàries (normativa publicada al Diari Oficial de la Generalitat Valenciana i al Butlletí Oficial de l'Estat, portal educatiu oficial del centre) i fonts secundàries de solvència variable (premsa, enciclopèdies, directoris). Cada afirmació porta indicada la font concreta d'on prové. Quan dues fonts es contradiuen, s'indica explícitament, sense esmenar la discrepància per compte propi. Quan una dada no s'ha pogut verificar en una font primària, es marca com a tal. Elaborat el 5 de setembre de 2026 amb la informació disponible fins eixa data; la normativa educativa espanyola i valenciana pateix modificacions freqüents, per la qual cosa es recomana verificar la vigència dels textos citats abans de fer-ne un ús formal (jurídic, acadèmic).
+
+---
+
+## ÍNDEX
+
+1. Marc legal general de l'educació de persones adultes a Espanya
+2. Marc legal específic de la Comunitat Valenciana
+3. Identificació administrativa del centre
+4. Naturalesa jurídica i procés de transformació en centre públic
+5. La persona epònima: Vicent Ventura i Beltran
+6. Història institucional detallada del centre
+7. Estructura educativa actual i el seu encaix normatiu
+8. Acreditacions lingüístiques i proves externes vinculades al centre
+9. Òrgans de govern i organització interna
+10. Programes europeus (Erasmus+)
+11. Projectes d'innovació educativa
+12. Localització, accés i presència digital
+13. Glossari exhaustiu d'acrònims i abreviatures
+14. Taula cronològica de la normativa aplicable
+15. Fonts consultades (llistat complet i classificat)
+16. Limitacions declarades d'aquest document
+
+---
+
+## 1. MARC LEGAL GENERAL DE L'EDUCACIÓ DE PERSONES ADULTES A ESPANYA
+
+### 1.1. La Llei Orgànica d'Educació (LOE) com a marc estatal bàsic
+
+La norma estatal de referència és la **Llei Orgànica 2/2006, de 3 de maig, d'Educació (LOE)**, publicada en el Boletín Oficial del Estado (BOE-A-2006-7899). Aquesta llei dedica el seu **Capítol IX del Títol I** (articles 66 a 70, més l'article 70 bis afegit posteriorment) específicament a l'**Educació de Persones Adultes**. En síntesi, i sense reproduir-ne el text literal (que es pot consultar íntegrament al BOE: https://www.boe.es/buscar/act.php?id=BOE-A-2006-7899):
+
+- **Article 66 (Objectius i principis):** estableix que l'educació de persones adultes té la finalitat d'oferir a totes les persones majors de díhuit anys la possibilitat d'adquirir, actualitzar, completar o ampliar els seus coneixements i aptituds per al seu desenvolupament personal i professional. També preveu que l'Administració educativa puga col·laborar amb altres administracions (laboral, corporacions locals, agents socials) per assolir eixa finalitat — precisament el tipus de col·laboració que va donar origen al centre Vicent Ventura, nascut d'una iniciativa sindical (CCOO-PV) abans de ser assumit per la Generalitat.
+- **Article 67 (Organització):** determina que poden incorporar-se a l'educació de persones adultes qui complisca díhuit anys en l'any d'inici del curs, amb excepcions per a majors de setze anys en determinades circumstàncies (contracte laboral incompatible amb l'horari ordinari, esportistes d'alt rendiment, etc.).
+- **Article 68 (Ensenyaments obligatoris):** especifica que les persones adultes que vulguen adquirir les competències i coneixements de l'Educació Bàsica comptaran amb una oferta adaptada a les seues condicions i necessitats, regida pels principis de mobilitat i transparència, i que es podrà impartir tant de manera presencial com a distància. També preveu proves perquè els majors de díhuit anys puguen obtindre directament el títol de Graduat en Educació Secundària Obligatòria (ESO) sense necessitat de cursar tot el currículum.
+- **Article 70 (Centres):** regula els requisits que han de complir els centres —públics o privats— que imparteixen aquests ensenyaments.
+
+**Font primària:** BOE-A-2006-7899 (text consolidat) — https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf ; comentari sistemàtic dels articles a Iberley — https://www.iberley.es/legislacion/ley-organica-2-2006-3-may-educacion-3654509
+
+### 1.2. Modificació per la LOMLOE (2020)
+
+La **Llei Orgànica 3/2020, de 29 de desembre**, per la qual es modifica la LOE (coneguda popularment com a **LOMLOE**), va introduir canvis significatius en aquest capítol:
+
+- Es va redactar de nou l'apartat 3 de l'article 66, i se n'hi va afegir una nova lletra i), relativa —segons les fonts consultades— al reconeixement del paper de l'aprenentatge al llarg de la vida i a la validació d'aprenentatges adquirits per vies no formals.
+- Es va redactar de nou el punt 1 de l'article 67 i se n'hi va afegir un nou punt 10.
+- Es va redactar de nou el punt 2 de l'article 68, reforçant la possibilitat de validar aprenentatges adquirits per l'experiència laboral o social (article 66.4), mitjançant proves quan la persona sol·licitant no dispose de documentació acadèmica oficial.
+
+**Font primària:** text consolidat de la LOE amb anotacions de vigència — https://noticias.juridicas.com/base_datos/Admin/lo2-2006.html ; referència aplicada en normativa autonòmica derivada — Ordre 136/2023 de Castella-La Manxa, que cita explícitament aquests preceptes (https://educacion.castillalamancha.es/sites/default/files/normativas/2025-09/ORDEN%20136-2023%20ense%C3%B1anzas%20de%20Educaci%C3%B3n%20Secundaria%20para%20adultos.pdf), document que reprodueix la mateixa base legal estatal que empra la Comunitat Valenciana per a la seua pròpia normativa (vegeu apartat 2).
+
+⚠️ **Nota de rigor:** no he pogut accedir al text article per article de la LOMLOE en el seu redactat original per a copiar-ne la formulació exacta de la nova lletra i) de l'article 66.3; la informació anterior es basa en referències indirectes (bases de dades jurídiques que anoten "modificat per LO 3/2020"), no en la lectura directa del BOE de la LOMLOE. Es recomana verificar-ho al BOE si es necessita precisió literal.
+
+---
+
+## 2. MARC LEGAL ESPECÍFIC DE LA COMUNITAT VALENCIANA
+
+Aquest és, probablement, el bloc més rellevant per a entendre jurídicament el cas del CFPA Vicent Ventura, perquè la Comunitat Valenciana té **competència plena en matèria educativa** (dins el marc bàsic estatal) i ha desenvolupat una normativa pròpia i estable des de mitjan anys noranta.
+
+### 2.1. Llei 1/1995, de 20 de gener, de Formació de les Persones Adultes (Comunitat Valenciana)
+
+És la **norma amb rang de llei** que estructura tot el sistema valencià de formació de persones adultes. Publicada al DOGV núm. 2439, de 31 de gener de 1995.
+
+Continguts rellevants:
+
+- **Article 1 (objecte):** regula la formació de persones adultes a la Comunitat Valenciana i n'estableix els mecanismes i instruments d'estructuració, desenvolupament, coordinació i avaluació.
+- **Article 2 (definició):** entén per "formació de persones adultes" el conjunt d'actuacions adreçades a la ciutadania valenciana que ha superat l'edat d'escolaritat obligatòria, amb l'objectiu de facilitar-los l'accés a béns culturals formatius i a nivells educatius que milloren la seua inserció laboral i la seua capacitat de judici crític i participació.
+- **Article 3 (finalitat i objectius):** per a afiançar el dret de totes les persones a l'educació, la llei garanteix l'adquisició i actualització de l'educació bàsica, promou l'accés als diferents nivells del sistema educatiu, estimula la participació de l'alumnat en el disseny del seu propi procés formatiu i dona **atenció preferent als sectors socials més desfavorits** — un principi que es materialitza de manera molt directa en la trajectòria històrica del centre Vicent Ventura (vegeu apartat 6), nascut precisament per atendre la classe treballadora.
+- **Article 5:** reconeix l'especificitat de la Formació de Persones Adultes quant a modalitats, organització i metodologies, adaptades a les característiques de l'aprenentatge adult.
+- Regula, en un article posterior, que la **creació i supressió de centres públics específics** de formació de persones adultes de titularitat de la Generalitat Valenciana **s'ha de fer per Decret del Govern valencià** — aquesta és, precisament, la base legal que fa necessari el Decret 64/2019 (apartat 4) per a convertir el centre Vicent Ventura en un centre públic.
+- Deroga expressament el Decret 7/1985, de 28 de gener, del Govern Valencià, pel qual es creava el "Programa per a l'Animació i Promoció de l'Educació Permanent d'Adults", norma anterior que regulava aquesta matèria fins al 1995 (i que, per cert, és el programa esmentat a la pàgina d'Història del centre com a marc en què va nàixer el projecte l'any 1994, ja que la Llei 1/1995 encara no existia en aquell moment).
+
+**Font primària:** text consolidat amb notes de vigència (BOE) — https://www.boe.es/buscar/act.php?id=BOE-A-1995-4814 ; articulat complet — https://noticias.juridicas.com/base_datos/CCAA/va-l1-1995.t1.html i https://noticias.juridicas.com/base_datos/CCAA/va-l1-1995.tp.html
+
+⚠️ **Actualització recent detectada:** el text consolidat consultat indica que diversos articles de la Llei 1/1995 (entre ells l'article citat sobre finançament i altres preceptes de finançament) han estat **modificats o suprimits pel Decret-llei 14/2025, de 26 de desembre**, i que un d'ells ha estat suprimit també per la **Llei 3/2026, de 29 de juny** (referència BOE-A-2026-15683). Açò significa que la llei de 1995, encara vigent en l'essencial, ha experimentat canvis molt recents (finals de 2025 i mitjan 2026) que **no he pogut analitzar en detall** perquè excedeixen l'abast d'aquesta consulta; qualsevol ús jurídic estricte de la Llei 1/1995 hauria de revisar-ne el text consolidat actualitzat.
+
+### 2.2. Decret 90/1995, de 16 de maig, del Govern Valencià
+
+Regula la composició, les competències i el funcionament del **Consell de la Formació de Persones Adultes** a la Comunitat Valenciana, òrgan consultiu i de participació previst per la Llei 1/1995.
+
+**Font:** citat a la normativa recopilada pel Portal Educatiu de la GVA — https://portal.edu.gva.es/ambitfpa/ambit-fpa/normativa/
+
+### 2.3. Ordre de 2 de maig de 2000
+
+De les Conselleries de Cultura, Educació i Ciència; d'Ocupació; i de Benestar Social, per la qual s'aprova el **Reglament de Funcionament del Consell de la Formació de Persones Adultes** a la Comunitat Valenciana (desenvolupa el Decret 90/1995).
+
+**Font:** https://portal.edu.gva.es/ambitfpa/ambit-fpa/normativa/
+
+### 2.4. Decret 220/1999, de 23 de novembre, del Govern Valencià
+
+Aquesta norma, vigent durant més de vint-i-cinc anys (fins a la seua substitució parcial pel Decret 77/2025, vegeu 2.7), va regular els **programes formatius** previstos a la Llei 1/1995 i va establir el **currículum dels programes d'alfabetització** i dels programes per adquirir i actualitzar la formació bàsica de les persones adultes **fins a l'obtenció del títol de Graduat en Educació Secundària**.
+
+**Font primària:** https://noticias.juridicas.com/base_datos/CCAA/va-d220-1999.html ; citat també com a antecedent derogat pel Decret 77/2025 — https://noticias.juridicas.com/base_datos/CCAA/960179-decreto-77-2025-de-27-de-mayo-del-consell-por-el-que-se-establecen-el-curriculo.html
+
+### 2.5. Ordre de 14 de juny de 2000
+
+De la Conselleria de Cultura i Educació, per la qual es regula la implantació dels **programes formatius** establerts en els annexos I i III del Decret 220/1999, i es dicten instruccions per a l'organització i funcionament dels **centres públics de formació de persones adultes** de la Comunitat Valenciana. Aquesta ordre és, per tant, l'instrument que va concretar operativament el currículum del Decret 220/1999 en el dia a dia dels centres — incloent-hi, en el seu moment, el precursor del CFPA Vicent Ventura.
+
+**Font:** citada literalment com a norma derogada (parcialment) pel Decret 77/2025 — https://noticias.juridicas.com/base_datos/CCAA/960179-decreto-77-2025-de-27-de-mayo-del-consell-por-el-que-se-establecen-el-curriculo.html
+
+### 2.6. Decret 83/2000, de 30 de maig, del Govern Valencià
+
+Estableix la **prova perquè les persones majors de díhuit anys puguen obtindre directament el títol de Graduat en Educació Secundària** a la Comunitat Valenciana, sense necessitat de cursar els mòduls corresponents — és a dir, la base autonòmica del dret reconegut a l'article 68.2 de la LOE (apartat 1.1).
+
+**Font:** ídem, citada com a antecedent derogat pel Decret 77/2025.
+
+### 2.7. Decret 207/2003, de 10 d'octubre, del Consell
+
+Estableix els **requisits mínims que han de complir els centres docents de formació de persones adultes** a la Comunitat Valenciana (instal·lacions, ràtios, condicions materials). Aquesta és precisament la norma que el preàmbul del **Decret 64/2019** (vegeu apartat 4) cita per justificar que les instal·lacions cedides per CCOO-PV complien els requisits exigits per a poder-se convertir en centre públic.
+
+**Font:** citat en el preàmbul del Decret 64/2019, reproduït per vLex — https://vlex.es/vid/decreto-64-2019-26-781915833
+
+### 2.8. Ordre 2/2019, de 2 de juliol, de la Conselleria d'Educació, Cultura i Esport
+
+Crea les **zones territorials d'actuació** dels centres públics específics de formació de persones adultes i estableix la composició per unitats dels centres de titularitat de la Generalitat i de les seues extensions. És a dir, aquesta ordre —publicada pocs mesos després del Decret 64/2019 que va crear el centre Vicent Ventura com a públic— és la que en concreta l'adscripció territorial dins la xarxa pública valenciana de centres de FPA.
+
+**Font primària:** fitxa de disposició DOGV — https://dogv.gva.es/portal/ficha_disposicion.jsp?L=1&sig=006308/2019
+
+### 2.9. Decret 64/2019, de 26 d'abril, del Consell
+
+Norma de **creació específica** del CFPA Vicent Ventura com a centre públic. Es desenvolupa amb detall a l'apartat 4 d'aquest document, per tractar-se del fet jurídic més directament relacionat amb la institució objecte d'estudi.
+
+### 2.10. Decret 77/2025, de 27 de maig, del Consell (norma vigent actualment)
+
+Aquesta és la norma **més recent i actualment aplicable** en matèria de currículum de l'educació bàsica de persones adultes a la Comunitat Valenciana, i **substitueix el marc del Decret 220/1999 i normes concordants**. Els seus trets principals, segons la nota de premsa oficial de la Generalitat i mitjans especialitzats en educació:
+
+- Estableix el **currículum, l'ordenació i l'avaluació** de l'educació bàsica de les persones adultes, i regula la **prova perquè les persones majors de díhuit anys puguen obtindre directament el títol de Graduat en Educació Secundària Obligatòria (ESO)** a la Comunitat Valenciana.
+- Estructura l'educació bàsica de persones adultes en dues etapes:
+  - **FIPA (Formació Inicial per a Persones Adultes)**, equivalent a l'Educació Primària. S'imparteix **exclusivament de manera presencial**, en dos nivells d'un curs acadèmic cadascun, amb les àrees comunicativa, matemàtica i digital: 8 hores lectives setmanals en el primer nivell i 10 en el segon.
+  - **ESPA (Educació Secundària per a Persones Adultes)**, equivalent a l'ESO. Es pot cursar de manera **presencial, semipresencial o a distància** (aquesta darrera modalitat, a través del **Centre Específic d'Educació a Distància — CEED**). S'estructura en dos nivells (I i II), dividits en quatre mòduls quadrimestrals corresponents als quatre cursos de l'ESO: el nivell I té 12 hores lectives setmanals i el nivell II, 14.
+- L'organització modular i per àmbits (en lloc d'assignatures soltes) busca facilitar la flexibilitat, l'adaptació a l'alumnat adult i la mobilitat educativa entre comunitats autònomes.
+- Introdueix el **reconeixement oficial de nivells de valencià i de castellà per a estrangers** obtinguts mitjançant els estudis cursats en centres d'Educació de Persones Adultes (EPA).
+- **Deroga** —entre altres normes— el **Decret 220/1999** (en la part relativa al currículum d'educació bàsica), l'**Ordre de 14 de juny de 2000** i el **Decret 83/2000** (en allò que fa referència a la prova de graduat).
+
+**Fonts primàries i periodístiques contrastades:**
+- Nota de premsa oficial de la Generalitat Valenciana: https://comunica.gva.es/va/detalle?id=392928337&site=373430869
+- Fitxa jurídica amb llistat de normes derogades: https://noticias.juridicas.com/base_datos/CCAA/960179-decreto-77-2025-de-27-de-mayo-del-consell-por-el-que-se-establecen-el-curriculo.html
+- Cobertura sindical especialitzada (ANPE Comunitat Valenciana), amb enllaç al text del decret publicat al DOGV: https://anpecomunidadvalenciana.es/notices/195448/Nuevo-Decreto-de-curr%C3%ADculo-de-la-educaci%C3%B3n-b%C3%A1sica-de-las-personas-adultas-y-prueba-de-graduado-ESO-para-mayores-de-18-a%C3%B1os
+- Pàgina de novetats de la Conselleria d'Educació sobre FPA, que confirma la resolució de 18 de juliol de 2025 amb les instruccions d'organització i funcionament dels centres d'EPA per al curs 2025-2026, i la resolució de 8 de gener de 2026 que convoca la prova de graduat en ESO per al curs 2025-2026: https://ceice.gva.es/va/web/ordenacion-academica/novedades-formacion-personas-adultas
+- Article periodístic (El Periòdic Valencià), amb el detall d'hores lectives: https://www.elperiodicvalencia.com/el-consell-aprova-el-nou-decret-que-regula-el-curriculum-de-leducacio-de-persones-adultes/
+
+**Conseqüència directa per al centre estudiat:** l'oferta de "FIPA I", "FIPA II", "ESPA I (Mòduls I/II)" i "ESPA II (Mòduls III/IV)" que apareix al menú "Ensenyaments reglats" del web oficial del CFPA Vicent Ventura (vegeu apartat 7) és **exactament la nomenclatura introduïda pel Decret 77/2025**, cosa que confirma que el centre aplica aquest currículum vigent i no el del Decret 220/1999, ja derogat en aquest punt.
+
+---
+
+## 3. IDENTIFICACIÓ ADMINISTRATIVA DEL CENTRE
+
+| Camp | Dada | Font |
+|---|---|---|
+| Nom oficial actual | Centre de Formació de Persones Adultes (CFPA) Vicent Ventura | Portal oficial |
+| Codi de centre actual | 46036311 | Portal oficial (peu de pàgina) |
+| Codi de centre originari (1994-2019) | 46020509 | Preàmbul del Decret 64/2019 |
+| Titularitat actual | Pública — Generalitat Valenciana, adscrit a la Conselleria d'Educació, Cultura i Universitats | Portal oficial |
+| Titularitat originària (1994-2019) | Privada — Confederació Sindical de Comissions Obreres del País Valencià (CCOO-PV) | Preàmbul del Decret 64/2019 |
+| Adreça actual | Plaça del Doctor Berenguer Ferrer, 11 — 46014 València (districte de l'Olivereta) | Portal oficial |
+| Adreça originària (1994-2019) | Carrer Convent de Carmelites, 1 — 46010 València | Preàmbul del Decret 64/2019; confirmat també per l'antic bloc "Enredra't" |
+| Telèfon | 963 18 92 40 | Portal oficial |
+| Correu electrònic | 46036311@edu.gva.es | Portal oficial |
+| Web oficial | https://portal.edu.gva.es/cfpavicentventura | — |
+| Alumnat (xifra aproximada, darrers cursos, sense font estadística oficial detallada) | Més de 600 persones per curs | Pàgina "Història" del portal oficial |
+| Claustre (dada històrica de context, referida a l'any 2001) | 3 mestres + 3 professors/es de secundària | Pàgina "Història" del portal oficial |
+
+⚠️ **Reiteració de l'advertiment sobre fonts no oficials:** diversos directoris comercials no institucionals (Cylex, Educateca, Colegios.es, Todoeduca, Topacademias) recullen encara, parcialment o totalment, l'adreça i la denominació antigues ("F.P.A. Vicent Ventura, Centre Privat de Formació de Persones Adultes"), cosa lògica perquè eixa era la situació legal fins al 2019, però que pot induir a error si es consulten com a font actual. La informació de contacte fiable i actualitzada és, exclusivament, la publicada al portal oficial `portal.edu.gva.es`.
+
+---
+
+## 4. NATURALESA JURÍDICA I PROCÉS DE TRANSFORMACIÓ EN CENTRE PÚBLIC
+
+Aquest és el nucli normatiu més específic i verificable del cas.
+
+### 4.1. Situació de partida (1994)
+
+Mitjançant l'**Ordre de 22 d'agost de 1994**, de la llavors Conselleria d'Educació i Ciència, es va autoritzar l'obertura i funcionament del **Centre d'Educació Permanent d'Adults Vicent Ventura**, amb codi de centre **46020509**, ubicat al carrer Convent de Carmelites, número 1, de València. El **titular** d'aquesta autorització era la **Confederació Sindical de Comissions Obreres del País Valencià (CCOO-PV)**. Es tractava, doncs, d'un centre de **titularitat privada** (d'iniciativa social sindical) però **autoritzat i, previsiblement, subvencionat en part** per l'Administració educativa, en el marc del programa autonòmic d'animació i promoció de la formació permanent de persones adultes llavors vigent (originàriament regulat pel Decret 7/1985, posteriorment substituït per la Llei 1/1995).
+
+**Font primària:** preàmbul del Decret 64/2019 — https://vlex.es/vid/decreto-64-2019-26-781915833
+
+### 4.2. La cessió de les instal·lacions
+
+En un moment no especificat amb precisió de data en les fonts consultades (però necessàriament anterior a l'abril de 2019), la **Confederació Sindical de Comissions Obreres del País Valencià va acordar cedir a la Generalitat** les instal·lacions del carrer Convent de Carmelites, de la seua propietat, **amb la finalitat expressa de crear un centre de formació de persones adultes** de titularitat pública en eixe mateix emplaçament.
+
+**Font primària:** preàmbul del Decret 64/2019, ibídem.
+
+### 4.3. Verificació del compliment dels requisits mínims
+
+El mateix preàmbul del decret constata que les instal·lacions cedides **complien els requisits establerts pel Decret 207/2003, de 10 d'octubre, del Consell**, que fixa els requisits mínims que han de complir els centres docents de formació de persones adultes a la Comunitat Valenciana (vegeu apartat 2.7).
+
+### 4.4. El Decret 64/2019, de 26 d'abril, del Consell
+
+Amb aquests antecedents, el Consell (govern) de la Generalitat Valenciana va aprovar el **Decret 64/2019, de 26 d'abril**, "pel qual es crea el Centre de Formació de Persones Adultes Vicent Ventura en València" (referència de publicació **[2019/4456]** al DOGV, publicat a començaments de maig de 2019). El fonament competencial d'aquest decret es troba, com s'ha explicat en l'apartat 2.1, en la pròpia Llei 1/1995, que reserva a un decret del Govern valencià la creació de centres públics específics de formació de persones adultes de titularitat de la Generalitat.
+
+El preàmbul del decret també emmarca la decisió en la **Llei orgànica 2/2006, de 3 de maig, d'Educació**, recordant que aquesta llei estableix que l'educació de persones adultes té la finalitat d'oferir a totes les persones majors de díhuit anys la possibilitat d'adquirir, actualitzar, completar o ampliar els seus coneixements i aptituds per al desenvolupament personal i professional, i que les persones que vulguen adquirir les competències corresponents a l'educació bàsica han de comptar amb una oferta adaptada a les seues condicions i necessitats — és a dir, el decret connecta explícitament el cas concret del centre Vicent Ventura amb el marc general descrit a l'apartat 1 d'aquest document.
+
+Com a conseqüència del decret:
+- El centre passa a tindre **titularitat pública** (Generalitat Valenciana).
+- Passa a dependre orgànicament de la llavors **Conselleria d'Educació, Investigació, Cultura i Esport** (denominació de la conselleria en aquell moment; l'actual, amb canvis de nom posteriors per reorganitzacions de govern, és **Conselleria d'Educació, Cultura i Universitats**).
+- Se li assigna el nou codi de centre **46036311**.
+- El centre passa a formar part de la xarxa de zones territorials creada pocs mesos després per l'**Ordre 2/2019, de 2 de juliol** (apartat 2.8).
+
+**Fonts primàries:** vLex (reproducció del text) — https://vlex.es/vid/decreto-64-2019-26-781915833 ; sumari del DOGV on apareix la referència [2019/4456] — http://www.dogv.gva.es/datos/2019/05/06/PortalCAS.html ; confirmació de la mateixa data i efecte a la pàgina d'Història del portal oficial del centre, en versió valenciana i castellana — https://portal.edu.gva.es/cfpavicentventura/centre/historia-2/ i https://portal.edu.gva.es/cfpavicentventura/es/centro/historia/
+
+### 4.5. Discrepància sobre la data de "publificació" (advertiment crític mantingut d'una versió anterior d'aquest document)
+
+La fitxa del centre a la xarxa educativa "Red Planea" (plataforma de projectes educatius i artístics, no un organisme oficial) afirma textualment: *"aunque desde el año 2018 somos escuela pública"*. Aquesta afirmació **no coincideix amb cap de les fonts jurídiques primàries consultades**, que situen la creació del centre públic el **26 d'abril de 2019** (Decret 64/2019). No he localitzat cap decret, ordre o acord de 2018 que done suport a la data alternativa.
+
+Possibles explicacions (no verificades, per tant expressades ací com a hipòtesis i no com a fets):
+1. Un error de memòria o de redacció en la font secundària (la més probable, a falta de proves).
+2. L'existència d'un acord previ de cessió o d'un compromís polític/administratiu de 2018 que hauria precedit la formalització jurídica definitiva de 2019, i que la font secundària hauria confós amb la data de creació legal efectiva.
+
+**Conclusió recomanada:** per a qualsevol ús rigorós (acadèmic, jurídic o divulgatiu), s'ha de considerar el **26 d'abril de 2019** com la data de creació del centre públic, per estar documentada en una norma amb rang de decret publicada al DOGV. La data de "2018" s'hauria de citar, si és el cas, únicament com a afirmació d'una font no oficial, explicitant la incertesa.
+
+**Font de la discrepància:** https://redplanea.org/centro/cfpa-vicent-ventura/ (consultada el 5/9/2026)
+
+---
+
+## 5. LA PERSONA EPÒNIMA: VICENT VENTURA I BELTRAN
+
+### 5.1. Dades biogràfiques bàsiques
+
+Vicent Ventura i Beltran va nàixer a **Castelló de la Plana el 1924** i va morir a **València el 25 de desembre de 1998**. Va ser periodista, assagista i polític valencianista. Provenia d'una família de recursos escassos: el seu pare, sastre, militava en el carlisme i era originari de Vilafermosa del Riu (l'Alt Millars); la mare era d'Almassora (la Plana Alta). El 1940 va començar a treballar com a obrer a la Unión Naval de Levante, i el 1948, per influència familiar, va ingressar al Frente de Juventudes com a responsable de premsa i propaganda.
+
+**Font:** Diari La Veu — https://www.diarilaveu.cat/cultura/tal-dia-com-hui-del-1998-va-morir-el-periodista-i-politic-vicent-ventura-2-520039/
+
+### 5.2. Trajectòria política i periodística
+
+- Cap al **1949** va començar a col·laborar amb els diaris *Levante* i *Jornada*, òrgans periodístics del règim franquista a València, i va ser redactor de Radio Nacional de España. Va dirigir els primers números de la revista *Claustro*, òrgan informatiu del Sindicato Español Universitario (SEU).
+- Influït pel poeta i polític **Dionisio Ridruejo**, es va allunyar progressivament del falangisme.
+- El **1962** va ser un dels fundadors del **Partit Socialista Valencià (PSV)**, i eixe mateix any va participar en el **IV Congrés del Moviment Europeu**, celebrat a Munic (episodi conegut per la propaganda franquista com el "Contubernio de Múnich"). A conseqüència d'això, les autoritats espanyoles li van impedir la reentrada al país, i va haver d'establir la seua residència a París durant un temps.
+- El **1964** va aconseguir tornar a València, però va ser confinat administrativament a **Dénia durant sis mesos** (segons una font) o "mig any" (segons una altra, coincident en la durada), com a càstig pel seu activisme antifranquista.
+- Posteriorment va fundar l'agència de publicitat **Publipress**.
+- A partir de **1966** va intensificar les col·laboracions amb premsa valenciana (*Levante*, *El Mercantil Valenciano*, *Valencia Fruits*), catalana (*La Vanguardia*, *Serra d'Or*, *Avui*, *Destino*, *Tele-exprés*), i madrilenya (*Madrid*, *Informaciones*, *Cuadernos para el Diálogo*), a més d'*El País* i *El Temps* en anys posteriors, i també *Dos y Dos*.
+- El **1977** publica el seu llibre més conegut, *Política per a un país* (Eliseu Climent, col·lecció "Tres i Quatre"), on defensava la necessitat de recuperar els senyals d'identitat i l'autoestima del poble valencià en un marc de construcció europea. Segons una de les fonts consultades, el seu protagonisme dins el partit va anar decreixent a mesura que aquest es va vincular al PSOE i s'hi van imposar línies més reformistes.
+- El **1978** publica *El País Valencià* (amb fotografies de Francesc Jarque), dins la col·lecció "Catalunya, Visió" de Publicacions de l'Abadia de Montserrat.
+- El **1987** va participar en la llista de la coalició "Izquierda de los Pueblos" (encapçalada per Euskadiko Ezkerra) a les eleccions al Parlament Europeu, tot i que problemes interns d'eixa coalició li van impedir ocupar l'escó pel temps acordat.
+- Pòstumament, el 2025, es va publicar el llibre *L'ofici que em furtaren. La transició amb ulls de periodista* (Institució Alfons el Magnànim), que recull part del seu llegat periodístic.
+
+**Fonts:** Viquipèdia en català — https://ca.wikipedia.org/wiki/Vicent_Ventura_i_Beltran ; Wikipedia en castellà — https://es.wikipedia.org/wiki/Vicent_Ventura ; Gran Enciclopèdia Catalana — https://www.enciclopedia.cat/gran-enciclopedia-catalana/vicent-ventura-i-beltran ; article de context de Rebelión sobre el centenari del seu naixement (2024) — https://rebelion.org/vicent-ventura-activista-civico-y-periodismo-radical/ ; reportatge d'El Temps amb testimonis directes — https://www.eltemps.cat/article/60306/vicent-ventura-el-centenari-dun-patriota-excessiu
+
+### 5.3. Reconeixements
+
+- **Miquelet d'Honor** de la Societat Coral El Micalet de València (1990).
+- **Medalla d'Or de la Universitat de València** (1995, segons l'Enciclopèdia Catalana; una altra font parla de "1995" també per a la Medalla de la Universitat sense especificar si és la mateixa distinció amb un altre nom).
+- **Premi Creu de Sant Jordi** de la Generalitat de Catalunya (1997).
+- **Premi València de novel·la** (1960), segons l'Enciclopèdia Catalana — dada que caldria contrastar més, ja que la resta de fonts el presenten predominantment com a periodista i assagista, no com a novel·lista.
+- Existeix, des de després de la seua mort, un **Premi Vicent Ventura**, atorgat anualment per un consorci integrat per les universitats de València i Jaume I de Castelló, els sindicats STEPV, CCOO i UGT, la Unió de Llauradors i Ramaders, i la Unió de Periodistes Valencians, destinat a una persona o col·lectiu distingit per la seua trajectòria cívica, democràtica i de compromís amb la Comunitat Valenciana.
+
+**Font:** Wikipedia en castellà, apartat de reconeixements i del premi homònim — https://es.wikipedia.org/wiki/Vicent_Ventura
+
+### 5.4. Bibliografia sobre Vicent Ventura (obres de referència, no consultades íntegrament, citades ací per completesa)
+
+- Adolf Beltran, *Converses amb un ciutadà: Vicent Ventura* (Ed. Tàndem, 1993).
+- Francesc Pérez Moragón i Rafael Fresquet (coord.), *Vicent Ventura: un home de combat* (Ed. Universitat de València, 1998).
+
+**Font:** Rebelión, article citat — https://rebelion.org/vicent-ventura-activista-civico-y-periodismo-radical/
+
+### 5.5. Pertinència del nom per al centre educatiu
+
+Cap de les fonts consultades explica de manera explícita la decisió concreta d'anomenar el centre amb el nom de Vicent Ventura, però la coherència simbòlica és evident a la llum de les dades anteriors: es tracta d'una figura vinculada al valencianisme polític, al periodisme compromès i a una trajectòria de resistència democràtica durant el franquisme, valors que enllacen directament amb la missió declarada del centre —atendre la classe treballadora i els col·lectius més vulnerables, en un projecte nascut de la iniciativa sindical de CCOO-PV— descrita a l'apartat 6.
+
+---
+
+## 6. HISTÒRIA INSTITUCIONAL DETALLADA DEL CENTRE
+
+### 6.1. Origen (1994)
+
+Segons la pàgina "Història" del portal oficial, **l'any 1994 s'inaugurava el Centre de Formació d'Adults Vicent Ventura**, projecte educatiu impulsat per la **Secretaria de Formació de CCOO-PV**, en el marc del programa de la Generalitat Valenciana per a l'animació i promoció de la formació permanent de persones adultes (el precedent normatiu d'aquest programa, com s'explica a l'apartat 2.1, era el Decret 7/1985, posteriorment derogat i substituït per la Llei 1/1995, que és de gener d'eixe mateix any 1995, és a dir, immediatament posterior a la fundació del centre).
+
+En origen:
+- **Tres mestres** cobrien les necessitats d'alfabetització.
+- S'oferia la possibilitat d'obtindre el **Graduat Escolar** (denominació de l'època, anterior a l'actual Graduat en ESO).
+- S'impartia **FP1 de la branca sanitària**.
+- S'oferia **espanyol per a estrangers**.
+- **Més d'un centenar d'alumnes** van omplir les aules el primer curs.
+
+**Font:** https://portal.edu.gva.es/cfpavicentventura/centre/historia-2/
+
+### 6.2. Creixement i consolidació (2001 i anys posteriors)
+
+L'any **2001**, el centre va obtindre l'autorització per impartir el **segon nivell del cicle II** (nomenclatura de l'època per als nivells superiors de l'educació secundària de persones adultes), i al claustre s'hi van incorporar **tres nous docents**, dos d'ells procedents del cos de secundària. En aquell moment, doncs, el claustre quedava format per **3 mestres i 3 professors/es**. El nombre d'alumnes va anar creixent progressivament fins a superar, en els cursos més recents citats pel propi centre, els **600 alumnes per curs**.
+
+**Font:** ibídem.
+
+### 6.3. La transformació en centre públic (2019)
+
+Desenvolupada amb detall a l'apartat 4. En resum: el **Decret 64/2019, de 26 d'abril**, va crear el centre públic, després de la cessió de les instal·lacions per part de CCOO-PV a la Generalitat.
+
+### 6.4. Evolució de l'oferta formativa en funció del context social
+
+El propi centre reconeix explícitament, a la seua pàgina d'Història, que l'oferta formativa ha anat canviant "atenent el context en constant transformació": els programes que originàriament es dedicaven a preparar proves lliures de Graduat, accés a cicles formatius i accés a la universitat han donat pas, amb el temps, a un **pes creixent dels grups de castellà per a estrangers** — una dada rellevant que reflecteix el canvi en el perfil sociodemogràfic de l'alumnat de la Formació de Persones Adultes al llarg de tres dècades, en línia amb els fluxos migratoris que ha rebut la ciutat de València des de finals dels anys noranta.
+
+### 6.5. Atenció al col·lectiu migrant: una línia identitària explícita
+
+El centre declara, textualment, que "atendre les necessitats formatives i d'inclusió, social i laboral, del col·lectiu migrant ha sigut [...] un dels seus trets identitaris". Es documenten, en concret:
+
+- **1997-1999:** participació en el **projecte INTEGRA-FORJA**, amb l'objectiu de millorar la competència lingüística i la inserció de la població migrant.
+- **Des del curs 2008/2009:** oferta del programa **"Taller de Valencià"**, que ha canviat de denominació diverses vegades al llarg dels anys ("Taller de Llengua i Cultura Valencianes", després "El Valencià, instrument —o vehicle— de Ciutadania", i actualment **"Taller de Ciutadania Valenciana"**), amb el doble objectiu de facilitar el coneixement de la llengua i el patrimoni del territori a l'alumnat d'origen estranger, i d'obtindre un certificat útil per al procés d'arrelament legal.
+- Preparació de les **proves per a l'obtenció de la nacionalitat espanyola** (vegeu apartat 8.3), reflectida en l'oferta formativa actual del centre.
+- El propi centre indica que, "cada curs", s'ha aconseguit una major presència d'alumnat immigrant, inicialment atret pels programes de llengua, dins el segon cicle de l'ensenyament reglat.
+
+**Font:** ibídem.
+
+### 6.6. Pedagogia declarada i tradicions escolars
+
+El text institucional del centre reivindica, des dels seus orígens, una **pedagogia horitzontal**, orientada a l'aprenentatge cooperatiu i significatiu, i una escola "oberta" a l'entorn: eixides per conèixer la ciutat, les institucions, la vegetació urbana i els paratges pròxims, combinades amb l'entrada al centre d'exposicions, col·loquis i tallers organitzats al llarg dels anys.
+
+Es documenten com a **tradicions consolidades** del centre:
+- El **Berenar Intercultural**.
+- La **Marató fotogràfica**.
+- El **Concurs literari**.
+- L'**"Airellibre"**.
+- La **Festa de Comiat** (de fi de curs).
+- El **Projecte Anual d'Escola**, amb menció especial al projecte "**Sembrant Diversitat**", desenvolupat en col·laboració amb la Regidoria de Parcs i Jardins de l'Ajuntament de València.
+- El **projecte sobre l'Horta**, vinculat a la **Marxa anual organitzada per la Xarxa d'Escoles per l'Horta**, de la qual el centre forma part (documentat, com a mínim, en les edicions dels cursos 2020/21 —"V Marxa Escolar per l'Horta"— i 2022/23 —"Marxa Escolar per l'Horta"—, segons l'arxiu d'activitats del propi portal).
+
+**Font:** ibídem; arxiu d'activitats per curs del portal oficial — https://portal.edu.gva.es/cfpavicentventura/activitats/
+
+---
+
+## 7. ESTRUCTURA EDUCATIVA ACTUAL I EL SEU ENCAIX NORMATIU
+
+L'oferta educativa vigent (curs 2025/26, segons el menú "Ensenyaments" del portal oficial) s'organitza en tres grans blocs. S'indica, per a cada element, l'ampliació de l'abreviatura i el fonament normatiu corresponent (desenvolupat als apartats 1 i 2).
+
+### 7.1. Ensenyaments reglats
+
+| Denominació al web | Desplegament de l'abreviatura | Marc normatiu aplicable |
+|---|---|---|
+| FIPA I | **Formació Inicial per a Persones Adultes**, nivell I | Decret 77/2025 (currículum vigent); equival a un primer nivell d'alfabetització/formació instrumental bàsica |
+| FIPA II | Formació Inicial per a Persones Adultes, nivell II | Decret 77/2025; darrer graó abans de l'accés a l'ESPA |
+| ESPA I (Mòduls I/II) | **Educació Secundària per a Persones Adultes**, nivell I | Decret 77/2025; equival als dos primers cursos de l'ESO, 12 hores lectives setmanals segons el decret |
+| ESPA II (Mòduls III/IV) | Educació Secundària per a Persones Adultes, nivell II | Decret 77/2025; equival als dos darrers cursos de l'ESO, 14 hores lectives setmanals segons el decret; condueix, si se supera, al títol de **Graduat en Educació Secundària Obligatòria (ESO)** |
+
+Aquest bloc s'empara, en última instància, en els articles 66 a 68 de la LOE (apartat 1.1) i, en l'àmbit valencià, en la Llei 1/1995 i el Decret 77/2025 (apartats 2.1 i 2.10).
+
+### 7.2. Idiomes
+
+| Denominació al web | Comentari |
+|---|---|
+| VALENCIÀ (A1-A2) | Nivells inicials segons el Marc Comú Europeu de Referència per a les Llengües (MCER); vinculats potencialment a l'acreditació de la Junta Qualificadora de Coneixements de Valencià (JQCV, vegeu apartat 8.1) |
+| VALENCIÀ PER A MIGRANTS (Taller de Valencià) | Continuació del programa descrit a l'apartat 6.5, amb l'actual denominació "Taller de Ciutadania Valenciana" |
+| CASTELLÀ PER A MIGRANTS | Programa d'espanyol per a estrangers, present des dels orígens del centre el 1994 |
+| ANGLÉS | Sense més especificació de nivell al menú consultat |
+
+### 7.3. Altres ensenyaments (no conduents a titulació acadèmica reglada)
+
+- **Competències digitals** (informàtica)
+- **Taller de dibuix**
+- **Competències clau** (formació habitualment vinculada a l'accés a certificats de professionalitat de l'àmbit laboral)
+- **Formació en manipulació d'aliments** (formació higienicosanitària bàsica, sovint requerida per a treballar en hostaleria i restauració)
+- **Taller de bici**
+- **Activitat física i salut**
+- **Club de lectura**
+- **Hèlix (ment activa)**
+- **Preparació de proves de nacionalitat** (vegeu apartat 8.3)
+
+**Font d'aquest apartat sencer:** menú "Ensenyaments" del portal oficial — https://portal.edu.gva.es/cfpavicentventura/ensenyaments/ ; per al detall del Decret 77/2025, vegeu les fonts ja citades a l'apartat 2.10.
+
+---
+
+## 8. ACREDITACIONS LINGÜÍSTIQUES I PROVES EXTERNES VINCULADES AL CENTRE
+
+El web oficial del centre dedica un apartat específic a "Convocatòries d'exàmens oficials externs", que es organitza en tres blocs, amb sigles que cal desplegar:
+
+### 8.1. Proves de valencià
+
+- **JQCV — Junta Qualificadora de Coneixements de Valencià.** És l'organisme de la Generalitat Valenciana competent per a l'expedició de certificats oficials de coneixements de valencià, i el referent d'equivalència de la resta d'entitats certificadores.
+- **EOI — Escola Oficial d'Idiomes.** Les EOI també ofereixen proves de certificació de valencià (nivells Bàsic A2, Intermedi B1, Intermedi B2, Avançat C1 i Avançat C2), equivalents als nivells corresponents de la JQCV.
+- **CIEACOVA — Comissió Interuniversitària d'Estandardització d'Acreditacions de Coneixements de Valencià.** Nasqué el setembre de 2015 d'un conveni entre set universitats públiques i privades de la Comunitat Valenciana (Universitat de València, Universitat Politècnica de València, Universitat d'Alacant, Universitat Jaume I de Castelló, Universitat Miguel Hernández d'Elx, Universitat Cardenal Herrera-CEU i Universitat Catòlica de València Sant Vicent Màrtir), amb l'objectiu d'homologar els certificats de valencià expedits pels respectius serveis lingüístics universitaris. Els certificats de la CIEACOVA són **equivalents** als nivells corresponents de la JQCV, homologació que es regeix per l'**Ordre 7/2017, de 2 de març de 2017**.
+
+**Fonts:** JQCV, pàgina d'entitats certificadores homologades — https://jqcv.gva.es/es/entitats-certificadores ; Conselleria d'Educació, pàgina de la CIEACOVA — https://ceice.gva.es/es/web/dgplgm/cieacova ; Servei de Política Lingüística de la Universitat Politècnica de València — https://www.upv.es/entidades/spnl/cursos-de-valenciano/certificados/comision-interuniversitaria-de-estandarizacion-de-acreditaciones-de-conocimientos-de-valenciano-cieacova/
+
+### 8.2. Nacionalitat espanyola
+
+- **CCSE — Conocimientos Constitucionales y Socioculturales de España** (Coneixements Constitucionals i Socioculturals d'Espanya). És una de les dues proves exigides pel Ministeri de Justícia per a l'obtenció de la nacionalitat espanyola per residència, juntament amb l'acreditació del nivell d'idioma.
+- **DELE A2 — Diploma de Español como Lengua Extranjera, nivell A2.** Títol oficial acreditatiu de la competència en llengua espanyola, expedit per l'Institut Cervantes en nom del Ministeri d'Educació espanyol, i que constitueix l'altra prova exigida (o l'acreditació equivalent) en el procediment de nacionalitat per a les persones que no tenen l'espanyol com a llengua materna.
+
+**Nota:** el component "Preparació proves de nacionalitat" ja apareixia en la informació recollida per fonts de tercers (el bloc de CCOO "Enredra't") des de, com a mínim, l'època en què el centre encara era gestionat pel sindicat, cosa que confirma la continuïtat d'aquesta línia de treball des d'abans de la publificació de 2019.
+
+**Font:** menú del portal oficial — https://portal.edu.gva.es/cfpavicentventura/informacio/convocatories-examens-oficials-externs/ ; descripció general de les proves (coneixement general, no específica del centre): informació pública del Ministeri de Justícia i de l'Institut Cervantes (no consultades directament en aquesta cerca; desplegament de sigles basat en coneixement general contrastable).
+
+### 8.3. Proves lliures
+
+El centre també informa sobre "**Proves lliures**" en general, en línia amb la possibilitat —prevista tant a l'article 68.2 de la LOE com al Decret 77/2025— que persones majors de díhuit anys obtinguen directament titulacions oficials (com el Graduat en ESO) sense necessitat de cursar el currículum complet, mitjançant un examen específic.
+
+---
+
+## 9. ÒRGANS DE GOVERN I ORGANITZACIÓ INTERNA
+
+El menú "Centre" del portal oficial identifica els següents elements organitzatius, la majoria dels quals són figures pròpies de qualsevol centre educatiu públic espanyol regulades amb caràcter general per la LOE i, en l'àmbit valencià, per la normativa d'organització de centres (no s'ha aprofundit en cadascuna d'aquestes normes generals perquè excedirien l'objecte específic d'aquest document):
+
+- **Consell Escolar:** òrgan col·legiat de participació de la comunitat educativa (equip directiu, professorat, alumnat, personal d'administració i serveis, i, si escau, representants de l'Administració o de l'entitat local), preceptiu en tot centre educatiu sostingut amb fons públics.
+- **Equips docents:** organització del professorat del centre.
+- **Projectes del centre:** apartat que recull les iniciatives pedagògiques pròpies (vegeu apartats 6.6 i 11).
+- **Protecció de dades:** informació relativa al compliment de la normativa de protecció de dades personals (RGPD i normativa espanyola de desplegament), no del·liberadament objecte d'anàlisi en aquest document per no ser d'interès substantiu.
+
+**Font:** menú "Centre" del portal oficial — https://portal.edu.gva.es/cfpavicentventura/centre/
+
+---
+
+## 10. PROGRAMES EUROPEUS (ERASMUS+)
+
+El centre participa activament en el programa europeu **Erasmus+**, dedicat, en la seua vessant d'educació de persones adultes, a la mobilitat de personal docent i, en menor mesura, d'alumnat adult. Les sigles que apareixen al menú "Erasmus+" del portal corresponen a les diferents **Accions Clau (Key Actions, KA)** del programa:
+
+- **KA104:** codi emprat en el marc del programa Erasmus+ 2014-2020 per a projectes de mobilitat de personal en l'àmbit de l'educació de persones adultes. El centre documenta mobilitats corresponents al curs **2021/22** sota aquesta denominació.
+- **KA120 / KA121:** codis corresponents al nou marc Erasmus+ 2021-2027, relatius a projectes acreditats de mobilitat en educació de persones adultes (l'estructura exacta de numeració d'aquestes accions ha variat entre convocatòries; no s'ha trobat en les fonts consultades una definició oficial detallada específica per a cadascun d'aquests codis, per la qual cosa aquesta equivalència s'ofereix amb caràcter general i orientatiu). El centre documenta, sota aquests codis, projectes actius durant els cursos **2022/23** i **2023/24**, amb mobilitats a Portugal (Castelo da Maia), Grècia (Creta), Suècia (Hällefors) i Itàlia, entre altres.
+- Per al curs **2024/25**, el centre documenta mobilitats a **Càller (Sardenya, Itàlia)** i **Örebro (Suècia)**.
+- Per al curs **2025/26** hi ha un apartat específic al portal, sense detall consultat en profunditat en aquesta cerca.
+
+**Font:** menú "Erasmus +" del portal oficial, amb el seu desplegament complet de subapartats per curs i projecte — https://portal.edu.gva.es/cfpavicentventura/erasmus-2/
+
+⚠️ **Advertiment:** la correspondència exacta i oficial de cada codi KA amb la seua denominació completa i normativa (Guia del Programa Erasmus+ de la Comissió Europea) **no s'ha verificat directament en aquesta cerca** contra la font oficial de la Comissió Europea; es recomana consultar-la si es necessita precisió terminològica absoluta.
+
+---
+
+## 11. PROJECTES D'INNOVACIÓ EDUCATIVA
+
+- **PIIE — Projecte d'Innovació i Investigació Educativa** "El pati cuida": denominació desplegada de les sigles que apareixen al menú "Innovació" del portal; documentat amb apartats corresponents a un "1r any" i un "2n any" del projecte.
+- **Biblioinnova't:** projecte relacionat amb la biblioteca escolar i la innovació lectora, documentat per als cursos **2023/2024**, **2024/2025** i **2025/2026**.
+- **Hort escolar:** espai/projecte propi del centre, amb menú dedicat al portal oficial.
+- **Racó Vicent Ventura:** espai digital (allotjat a Google Sites) amb recursos diversos del centre.
+
+**Font:** menús "Innovació", "Hort" i "Racó Vicent Ventura" del portal oficial — https://portal.edu.gva.es/cfpavicentventura/innovacio/ ; https://portal.edu.gva.es/cfpavicentventura/hort/ ; https://sites.google.com/view/racovicentventura
+
+---
+
+## 12. LOCALITZACIÓ, ACCÉS I PRESÈNCIA DIGITAL
+
+### 12.1. Transport públic (València)
+
+- **Metro:** línies 3, 5 i 9 — parada "9 d'Octubre".
+- **Bus 70:** parada Tres Creus – Músic Ayllón.
+- **Bus 71:** parada Pare Esteban Pernet – Misericòrdia.
+- **Bus 73:** parada Tres Creus – Hospital.
+- **Bus 95, 99:** parada Tres Creus – Jurats.
+- **Valenbisi:** estació Pare Esteban Pernet.
+
+### 12.2. Xarxes i webs oficials
+
+- Instagram: https://www.instagram.com/cfpavicentventura
+- Telegram: https://t.me/vicven
+- YouTube: https://www.youtube.com/channel/UCJtxR7oksZUH_8R7au1BqnQ
+- Facebook: https://www.facebook.com/epavicentventura.venturavicent
+- Antic bloc del centre, època CCOO-PV (arxiu històric): https://enredrat2.wordpress.com/ i http://enredrat.blogspot.com/p/com-trobar-nos.html
+- Antic bloc del club de lectura: https://colomamv.wixsite.com/misitio
+- Racó Vicent Ventura: https://sites.google.com/view/racovicentventura
+- Recursos de competències digitals (Yoda DIGCOMP): https://sites.google.com/view/talleresdigcomp
+- Accés a l'aula virtual per a l'alumnat (Aules FPA): https://aules.edu.gva.es/fpa/login/index.php
+
+**Font d'aquest apartat sencer:** https://portal.edu.gva.es/cfpavicentventura/centre/contacte-i-xarxes-socials/
+
+---
+
+## 13. GLOSSARI EXHAUSTIU D'ACRÒNIMS I ABREVIATURES
+
+| Sigla | Desplegament | Àmbit |
+|---|---|---|
+| **CFPA** | Centre de Formació de Persones Adultes | Denominació del centre |
+| **CCOO-PV** | Comissions Obreres del País Valencià (secció territorial del sindicat Comisiones Obreras) | Titular originari del centre (1994-2019) |
+| **EPA** | Educació de Persones Adultes | Àmbit educatiu general |
+| **FIPA** | Formació Inicial per a Persones Adultes | Etapa curricular (equivalent a Primària), Decret 77/2025 |
+| **ESPA** | Educació Secundària per a Persones Adultes | Etapa curricular (equivalent a l'ESO), Decret 77/2025 |
+| **ESO** | Educació Secundària Obligatòria | Etapa educativa general del sistema espanyol |
+| **GES** | Graduat en Educació Secundària | Titulació obtinguda en superar l'ESPA o la prova lliure corresponent |
+| **LOE** | Llei Orgànica 2/2006, de 3 de maig, d'Educació | Norma estatal bàsica |
+| **LOMLOE** | Llei Orgànica 3/2020, de 29 de desembre, per la qual es modifica la LOE | Norma estatal de reforma |
+| **DOGV** | Diari Oficial de la Generalitat Valenciana | Butlletí oficial autonòmic |
+| **BOE** | Boletín Oficial del Estado | Butlletí oficial estatal |
+| **GVA** | Generalitat Valenciana | Administració autonòmica |
+| **CEED** | Centre Específic d'Educació a Distància | Modalitat d'impartició de l'ESPA a distància |
+| **JQCV** | Junta Qualificadora de Coneixements de Valencià | Organisme certificador oficial del valencià |
+| **EOI** | Escola Oficial d'Idiomes | Centre/organisme certificador d'idiomes, entre ells el valencià |
+| **CIEACOVA** | Comissió Interuniversitària d'Estandardització d'Acreditacions de Coneixements de Valencià | Entitat certificadora universitària del valencià |
+| **CCSE** | Conocimientos Constitucionales y Socioculturales de España (Coneixements Constitucionals i Socioculturals d'Espanya) | Prova per a la nacionalitat espanyola |
+| **DELE** | Diploma de Español como Lengua Extranjera (Diploma d'Espanyol com a Llengua Estrangera) | Acreditació d'espanyol, Institut Cervantes |
+| **PSV** | Partit Socialista Valencià | Partit polític cofundat per Vicent Ventura (1962) |
+| **PSPV** | Partit Socialista del País Valencià | Denominació alternativa/posterior citada per una font sobre el mateix partit o el seu successor (discrepància de nom entre fonts, vegeu nota més avall) |
+| **PIIE** | Projecte d'Innovació i Investigació Educativa | Programa d'innovació educativa de la Generalitat |
+| **KA** | Key Action (Acció Clau) | Codificació dels tipus de projecte del programa Erasmus+ |
+| **MCER** | Marc Comú Europeu de Referència per a les Llengües | Estàndard europeu de nivells lingüístics (A1-C2) |
+| **RGPD** | Reglament General de Protecció de Dades (Unió Europea) | Normativa de protecció de dades personals |
+
+⚠️ **Nota sobre PSV/PSPV:** la Viquipèdia en català identifica el partit cofundat per Vicent Ventura el 1962 com a "Partit Socialista Valencià (PSV)", mentre que la Wikipedia en castellà l'anomena "Partido Socialista del País Valenciano (PSPV)". No he pogut determinar en aquesta cerca si es tracta del mateix partit amb denominacions diferents segons la font, de dues fases successives d'una mateixa organització, o d'un error en alguna de les dues enciclopèdies. Es recomana verificar-ho en una font monogràfica sobre la història del valencianisme polític si aquesta dada és rellevant per a l'ús que se'n vulga fer.
+
+---
+
+## 14. TAULA CRONOLÒGICA DE LA NORMATIVA APLICABLE
+
+| Any | Norma | Contingut essencial |
+|---|---|---|
+| 1985 | Decret 7/1985, de 28 de gener, del Govern Valencià | Crea el programa d'animació i promoció de l'educació permanent d'adults (derogat el 1995) |
+| 1995 (gener) | **Llei 1/1995**, de 20 de gener, de Formació de les Persones Adultes | Marc legal bàsic valencià; deroga el Decret 7/1985 |
+| 1995 (maig) | Decret 90/1995, de 16 de maig | Regula el Consell de la Formació de Persones Adultes |
+| 1995 (agost) | Ordre de 22 d'agost de 1994 (anterior a la Llei 1/1995) | Autoritza l'obertura del centre originari (codi 46020509), titularitat CCOO-PV |
+| 1999 | **Decret 220/1999**, de 23 de novembre | Currículum de programes d'alfabetització i formació bàsica (derogat parcialment el 2025) |
+| 2000 (maig) | Decret 83/2000, de 30 de maig | Prova d'obtenció directa del Graduat en ESO (derogat el 2025) |
+| 2000 (juny) | Ordre de 14 de juny de 2000 | Implantació dels programes formatius del Decret 220/1999 (derogada el 2025) |
+| 2003 | Decret 207/2003, de 10 d'octubre | Requisits mínims dels centres de FPA |
+| 2006 | **Llei Orgànica 2/2006 (LOE)** | Marc estatal, articles 66-70 |
+| 2017 | Ordre 7/2017, de 2 de març | Homologació dels certificats CIEACOVA amb la JQCV |
+| 2019 (abril) | **Decret 64/2019**, de 26 d'abril | Crea el CFPA Vicent Ventura com a centre públic |
+| 2019 (juliol) | Ordre 2/2019, de 2 de juliol | Zones territorials dels centres públics de FPA |
+| 2020 | **Llei Orgànica 3/2020 (LOMLOE)** | Modifica els articles 66-68 de la LOE |
+| 2025 (maig) | **Decret 77/2025**, de 27 de maig | Nou currículum FIPA/ESPA vigent; deroga el Decret 220/1999, l'Ordre de 14/6/2000 i el Decret 83/2000 |
+| 2025 (juliol) | Resolució de 18 de juliol de 2025 | Instruccions d'organització i funcionament dels centres d'EPA, curs 2025-2026 |
+| 2025 (desembre) | Decret-llei 14/2025, de 26 de desembre | Modifica/suprimeix diversos articles de la Llei 1/1995 (abast no analitzat en detall) |
+| 2026 (gener) | Resolució de 8 de gener de 2026 | Convocatòria de la prova de Graduat en ESO per al curs 2025-2026 |
+| 2026 (juny) | Llei 3/2026, de 29 de juny | Suprimeix un altre article de la Llei 1/1995 (abast no analitzat en detall) |
+
+---
+
+## 15. FONTS CONSULTADES (LLISTAT COMPLET I CLASSIFICAT)
+
+### 15.1. Fonts primàries oficials — normativa
+
+1. BOE-A-2006-7899, Llei Orgànica 2/2006 (LOE), text consolidat: https://www.boe.es/buscar/pdf/2006/BOE-A-2006-7899-consolidado.pdf
+2. BOE-A-1995-4814, Llei 1/1995, de 20 de gener (text amb notes de vigència): https://www.boe.es/buscar/act.php?id=BOE-A-1995-4814
+3. Text consolidat de la Llei 1/1995 (Noticias Jurídicas): https://noticias.juridicas.com/base_datos/CCAA/va-l1-1995.t1.html i https://noticias.juridicas.com/base_datos/CCAA/va-l1-1995.tp.html
+4. Decret 220/1999 (Noticias Jurídicas): https://noticias.juridicas.com/base_datos/CCAA/va-d220-1999.html
+5. Decret 77/2025 (Noticias Jurídicas, amb llistat de normes derogades): https://noticias.juridicas.com/base_datos/CCAA/960179-decreto-77-2025-de-27-de-mayo-del-consell-por-el-que-se-establecen-el-curriculo.html
+6. Decret 64/2019 (reproduït per vLex): https://vlex.es/vid/decreto-64-2019-26-781915833
+7. Sumari del DOGV de maig de 2019 amb la referència [2019/4456]: http://www.dogv.gva.es/datos/2019/05/06/PortalCAS.html
+8. Ordre 2/2019, de 2 de juliol (fitxa DOGV): https://dogv.gva.es/portal/ficha_disposicion.jsp?L=1&sig=006308/2019
+9. Ordre 7/2017 (citada a través de fonts secundàries d'entitats certificadores; no consultada directament en PDF original)
+10. Normativa recopilada pel propi Portal Educatiu de la GVA (Àmbit FPA): https://portal.edu.gva.es/ambitfpa/ambit-fpa/normativa/
+11. Novetats normatives de FPA de la Conselleria d'Educació: https://ceice.gva.es/va/web/ordenacion-academica/novedades-formacion-personas-adultas
+
+### 15.2. Fonts primàries oficials — informació institucional del centre
+
+12. Portal oficial del centre: https://portal.edu.gva.es/cfpavicentventura
+13. Pàgina "Història" (valencià): https://portal.edu.gva.es/cfpavicentventura/centre/historia-2/
+14. Pàgina "Historia" (castellà): https://portal.edu.gva.es/cfpavicentventura/es/centro/historia/
+15. Pàgina "Contacte i xarxes socials": https://portal.edu.gva.es/cfpavicentventura/centre/contacte-i-xarxes-socials/
+16. Menú "Ensenyaments": https://portal.edu.gva.es/cfpavicentventura/ensenyaments/
+17. Menú "Erasmus +": https://portal.edu.gva.es/cfpavicentventura/erasmus-2/
+18. Menú "Innovació": https://portal.edu.gva.es/cfpavicentventura/innovacio/
+19. Menú "Activitats" (arxiu per curs): https://portal.edu.gva.es/cfpavicentventura/activitats/
+20. Sede electrònica de la GVA, fitxa del departament: https://sede.gva.es/es/detall-departament?id_dept=23328
+
+### 15.3. Fonts oficials complementàries sobre el Decret 77/2025
+
+21. Nota de premsa de la Generalitat: https://comunica.gva.es/va/detalle?id=392928337&site=373430869
+22. Cobertura d'ANPE Comunitat Valenciana amb enllaç al text del decret: https://anpecomunidadvalenciana.es/notices/195448/Nuevo-Decreto-de-curr%C3%ADculo-de-la-educaci%C3%B3n-b%C3%A1sica-de-las-personas-adultas-y-prueba-de-graduado-ESO-para-mayores-de-18-a%C3%B1os
+23. Article periodístic amb detall d'hores lectives: https://www.elperiodicvalencia.com/el-consell-aprova-el-nou-decret-que-regula-el-curriculum-de-leducacio-de-persones-adultes/
+
+### 15.4. Fonts sobre acreditacions lingüístiques i certificació
+
+24. JQCV, entitats certificadores homologades: https://jqcv.gva.es/es/entitats-certificadores
+25. Conselleria d'Educació, pàgina de la CIEACOVA: https://ceice.gva.es/es/web/dgplgm/cieacova
+26. Servei de Política Lingüística UPV, sobre la CIEACOVA: https://www.upv.es/entidades/spnl/cursos-de-valenciano/certificados/comision-interuniversitaria-de-estandarizacion-de-acreditaciones-de-conocimientos-de-valenciano-cieacova/
+
+### 15.5. Fonts biogràfiques sobre Vicent Ventura i Beltran
+
+27. Viquipèdia en català: https://ca.wikipedia.org/wiki/Vicent_Ventura_i_Beltran
+28. Wikipedia en castellà: https://es.wikipedia.org/wiki/Vicent_Ventura
+29. Gran Enciclopèdia Catalana: https://www.enciclopedia.cat/gran-enciclopedia-catalana/vicent-ventura-i-beltran
+30. Rebelión, article de context sobre el centenari (2024): https://rebelion.org/vicent-ventura-activista-civico-y-periodismo-radical/
+31. El Temps, reportatge sobre el centenari: https://www.eltemps.cat/article/60306/vicent-ventura-el-centenari-dun-patriota-excessiu
+32. Diari La Veu, article sobre la seua mort i llegat: https://www.diarilaveu.cat/cultura/tal-dia-com-hui-del-1998-va-morir-el-periodista-i-politic-vicent-ventura-2-520039/
+
+### 15.6. Fonts secundàries de context (no oficials, dades a tractar amb cautela)
+
+33. Red Planea (fitxa del centre, origen de la discrepància sobre l'any de publificació): https://redplanea.org/centro/cfpa-vicent-ventura/
+34. Antic bloc "Enredra't" (arxiu històric del centre, època CCOO-PV): http://enredrat.blogspot.com/p/com-trobar-nos.html i https://enredrat2.wordpress.com/
+35. Directoris comercials amb dades desactualitzades (citats només com a advertiment, no com a font fiable): Cylex (https://www.cylex.es/valencia/escola-de-persones-adultes-vicent-ventura-14290792.html), Educateca (http://www.educateca.com/centros/vicent-adultos-val.asp), Colegios.es (https://colegios.es/f-p-a-vicent-ventura-valencia/), Todoeduca (https://todoeduca.com/centros/cepa-vicent-ventura-valencia/), Topacademias (https://topacademias.es/escola-de-persones-adultes-vicent-ventura-valencia/)
+36. Instagram oficial del centre (comptador de seguidors a data de consulta): https://www.instagram.com/cfpavicentventura/
+
+---
+
+## 16. LIMITACIONS DECLARADES D'AQUEST DOCUMENT
+
+1. **Textos legals no consultats en versió PDF oficial completa.** Diverses normes (Decret 64/2019, Decret 220/1999, Ordre de 14/6/2000, Decret 83/2000, Ordre 7/2017) s'han consultat a través d'agregadors jurídics (vLex, Noticias Jurídicas) o de referències indirectes en normes posteriors que les citen com a antecedents derogats, **no mitjançant la lectura directa del PDF original publicat al DOGV**. Per a qualsevol ús jurídic formal (informes, al·legacions, publicacions acadèmiques amb exigència de cita legal exacta), es recomana obtindre el text íntegre directament de https://dogv.gva.es.
+2. **Modificacions molt recents de la Llei 1/1995 no analitzades en profunditat.** S'ha detectat que un Decret-llei de desembre de 2025 i una Llei de juny de 2026 han modificat o suprimit articles de la Llei 1/1995, però no s'ha pogut determinar amb precisió l'abast complet d'aquests canvis dins d'aquesta cerca.
+3. **Discrepància no resolta sobre l'any de publificació** (2018 segons una font no oficial, 2019 segons el decret): es manté explícitament sense esmenar, per rigor.
+4. **Discrepància no resolta sobre la denominació del partit fundat per Vicent Ventura** (PSV segons la Viquipèdia en català, PSPV segons la Wikipedia en castellà).
+5. **Xifres d'alumnat sense font estadística oficial desglossada.** La dada de "més de 600 alumnes per curs" prové d'una formulació general del propi centre a la seua pàgina d'Història, no d'una estadística anual publicada per la Conselleria d'Educació amb sèrie temporal.
+6. **Correspondència exacta dels codis Erasmus+ (KA104, KA120, KA121) no verificada contra la Guia oficial del Programa** de la Comissió Europea; s'ha ofert amb caràcter general i orientatiu a partir del que es dedueix del propi ús que en fa el centre.
+7. **Absència d'article enciclopèdic dedicat específicament al centre com a institució** (a diferència de la persona Vicent Ventura, que sí que compta amb entrades a Viquipèdia/Wikipedia i a la Gran Enciclopèdia Catalana). Tota la informació institucional prové, per tant, gairebé en exclusiva del portal educatiu oficial de la Generalitat, complementat puntualment amb el Decret 64/2019 i les normes citades.
+8. **Data d'elaboració:** 5 de setembre de 2026. Qualsevol canvi normatiu o institucional posterior a aquesta data no hi és reflectit.
 
