@@ -6,8 +6,8 @@
     <title>Informador d'IA - CFPA Vicent Ventura</title>
     <style>
         :root {
-            --primary-color: #000000;
-            --primary-hover: #333333;
+            --primary-color: #c41e3a;
+            --primary-hover: #a01729;
             --bg-color: #f8f9fa;
             --card-bg: #ffffff;
             --text-color: #212529;
@@ -73,7 +73,7 @@
         }
 
         .header-title {
-            color: #000;
+            color: var(--primary-color);
             font-size: 22px;
             font-weight: bold;
             margin-bottom: 12px;
@@ -86,7 +86,6 @@
             line-height: 1.5;
         }
 
-        /* Xat i contenidor */
         #chat-container {
             display: flex;
             flex-direction: column;
@@ -116,7 +115,7 @@
         }
 
         .message.user {
-            background: #000;
+            background: var(--primary-color);
             color: #fff;
             align-self: flex-end;
         }
@@ -132,12 +131,11 @@
             font-style: italic;
             color: #444;
             background: #f0f4f8;
-            border: 1px dashed #000;
+            border: 1px dashed var(--primary-color);
             align-self: flex-start;
             transition: all 0.3s ease;
         }
 
-        /* Entrada de text i botons */
         .chat-input-area {
             display: flex;
             padding: 10px;
@@ -156,13 +154,18 @@
             font-size: 14px;
         }
 
+        .chat-input-area input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 2px rgba(196, 30, 58, 0.15);
+        }
+
         .chat-input-area input:disabled {
             background-color: #e9ecef;
             cursor: not-allowed;
         }
 
         .btn-action {
-            background: #000;
+            background: var(--primary-color);
             color: white;
             border: none;
             padding: 10px 16px;
@@ -177,7 +180,7 @@
         }
 
         .btn-action:hover:not(:disabled) {
-            background: #333;
+            background: var(--primary-hover);
         }
 
         .btn-action:disabled {
@@ -206,6 +209,7 @@
             margin-top: auto;
         }
     </style>
+<base target="_blank">
 </head>
 <body>
 
@@ -455,7 +459,6 @@
         }
     }
 
-    // Speech Recognition
     if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
         const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
         reconeixementVeu = new SpeechRecognition();
@@ -524,7 +527,7 @@
         const currentWaitingMsgs = translations[currentLang].waitingMsgs;
         const loadingId = 'loading-' + Date.now();
         let indexMissatge = 0;
-        
+
         chatMessages.innerHTML += `<div id="${loadingId}" class="message bot loading">${currentWaitingMsgs[0]}</div>`;
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
@@ -544,14 +547,14 @@
             });
             const data = await response.json();
             const respostaBot = data.resposta || data.reply || "No s'ha obtingut cap resposta del sistema.";
-            
+
             clearInterval(intervalRotacio);
             document.getElementById(loadingId).remove();
             chatMessages.innerHTML += `<div class="message bot">${respostaBot}</div>`;
         } catch (err) {
             clearInterval(intervalRotacio);
             document.getElementById(loadingId).remove();
-            chatMessages.innerHTML += `<div class="message bot" style="color:red;">Error de connexió.</div>`;
+            chatMessages.innerHTML += `<div class="message bot" style="color:var(--primary-color);">Error de connexió.</div>`;
         }
 
         bloquejarEntrada(false);
